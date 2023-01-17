@@ -18,6 +18,7 @@ public class TestApplication {
         int x = 34;
         Scanner je = new Scanner(System.in);
         System.out.print("Enter a line: ");
+        System.out.print("NOW!!!");
         String userInput = je.nextLine();
         System.out.println("You entered: " + (userInput + x));
         je.close();
