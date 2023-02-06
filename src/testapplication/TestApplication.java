@@ -15,7 +15,7 @@ public class TestApplication {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //Test123
+        //Test123456
         int x = 34;
         Scanner je = new Scanner(System.in);
         System.out.print("Enter a line: ");
